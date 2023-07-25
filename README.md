@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jhaalok305@gmail.com**
 
-- ⚡ Fun fact **I think I am very Emotional Person.**
+- ⚡ Fun fact **I think I am a very Emotional Person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
