@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alok Jha</h1>
-<h3 align="center">A passionate frontend developerper from India.</h3>
+<h3 align="center">A passionate full Stack developerper from India.</h3>
 <img align="right" alt="coding" width="400" src="https://harshcodes.website/assets/images/gallery/web_dev.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokjha1999&label=Profile%20views&color=0e75b6&style=flat" alt="alokjha1999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokjha1999" alt="alokjha1999" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alokjha1999" alt="Alokjha1999" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aloktech2023" target="blank"><img src="https://img.shields.io/twitter/follow/aloktech2023?logo=twitter&style=for-the-badge" alt="aloktech2023" /></a> </p>
 
-- 🌱 I’m currently learning **React JS,Mern Stack etc.k**
+- 🌱 I’m currently learning **Node JS, Mern Stack etc. k**
 
 - 📝 I regularly write articles on [https://youtube.com/@aloktechuniverse?si=u-UGT4CMFb8PfXH1)
 
@@ -22,8 +22,8 @@
 <a href="https://twitter.com/aloktech2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aloktech2023" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ak28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ak28" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21947009/alok-kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21947009/alok-kashyap" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/aloktechnology?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/aloktechnology?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@thenextgenboyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@thenextgenboyo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aloktechuniverse?igsh=MTRjdnF4djQ5Z3gweA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/aloktechnology?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
+<a href="https://youtube.com/@aloktechuniverse?si=u-UGT4CMFb8PfXH1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@aloktechuniverse?si=u-UGT4CMFb8PfXH1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
