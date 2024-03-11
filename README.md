@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS,Mern Stack etc.k**
 
-- 📝 I regularly write articles on [https://www.youtube.com/@Thenextgenboyo](https://www.youtube.com/@Thenextgenboyo)
+- 📝 I regularly write articles on [https://youtube.com/@aloktechuniverse?si=u-UGT4CMFb8PfXH1)
 
 - 💬 Ask me about **JavaScript,React JS & Node JS**
 
